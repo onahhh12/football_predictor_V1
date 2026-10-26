@@ -4,7 +4,7 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 3,1,22/08/2026 16:00,Hill Dickinson Stadium,Everton,Crystal Palace,2 - 0
 4,1,22/08/2026 16:00,Portman Road,Ipswich Town,Sunderland,2 - 1
 5,1,22/08/2026 16:00,The City Ground,Nott'm Forest,Leeds,0 - 1
-6,1,22/08/2026 18:30,Gtech Community Stadium,Brentford,Spur,3 - 0
+6,1,22/08/2026 18:30,Gtech Community Stadium,Brentford,Spurs,3 - 0
 7,1,23/08/2026 15:30,American Express Stadium,Brighton,Aston Villa,4 - 0
 8,1,23/08/2026 15:00,Etihad Stadium,Man City,Bournemouth,2 - 1
 9,1,23/08/2026 17:30,St. James' Park,Newcastle,Liverpool,2 - 2
@@ -13,7 +13,7 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 12,2,29/08/2026 13:30,Anfield,Liverpool,Nott'm Forest,2 - 2
 13,2,29/08/2026 16:00,Vitality Stadium,Bournemouth,Everton,1 - 1
 14,2,29/08/2026 16:00,Coventry Building Society Arena,Coventry City,Hull City,0 - 1
-15,2,29/08/2026 18:30,Tottenham Hotspur Stadium,Spur,Newcastle,0 - 1
+15,2,29/08/2026 18:30,Tottenham Hotspur Stadium,Spurs,Newcastle,0 - 1
 16,2,30/08/2026 15:00,Stamford Bridge,Chelsea,Brighton,4 - 3
 17,2,30/08/2026 15:00,Elland Road,Leeds,Brentford,1 - 1
 18,2,30/08/2026 15:00,Stadium of Light,Sunderland,Fulham,1 - 0
@@ -21,7 +21,7 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 20,2,31/08/2026 21:00,Villa Park,Aston Villa,Arsenal,0 - 1
 21,3,04/09/2026 21:00,Portman Road,Ipswich Town,Liverpool,0 - 2
 22,3,05/09/2026 13:30,St. James' Park,Newcastle,Bournemouth,2 - 2
-23,3,05/09/2026 16:00,The City Ground,Nott'm Forest,Spur,0 - 0
+23,3,05/09/2026 16:00,The City Ground,Nott'm Forest,Spurs,0 - 0
 24,3,05/09/2026 16:00,Etihad Stadium,Man City,Coventry City,1 - 0
 25,3,05/09/2026 16:00,Gtech Community Stadium,Brentford,Sunderland,1 - 1
 26,3,05/09/2026 16:00,Craven Cottage,Fulham,Crystal Palace,2 - 3
@@ -34,13 +34,13 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 33,4,12/09/2026 16:00,Vitality Stadium,Bournemouth,Brentford,2 - 2
 34,4,12/09/2026 16:00,Villa Park,Aston Villa,Nott'm Forest,1 - 2
 35,4,12/09/2026 16:00,Stamford Bridge,Chelsea,Hull City,2 - 2
-36,4,12/09/2026 18:30,Tottenham Hotspur Stadium,Spur,Everton,0 - 0
+36,4,12/09/2026 18:30,Tottenham Hotspur Stadium,Spurs,Everton,0 - 0
 37,4,12/09/2026 21:00,Stadium of Light,Sunderland,Arsenal,0 - 2
 38,4,13/09/2026 15:00,Coventry Building Society Arena,Coventry City,Brighton,0 - 5
 39,4,13/09/2026 17:30,Old Trafford,Man Utd,Man City,0 - 1
 40,4,13/09/2026 21:00,Elland Road,Leeds,Newcastle,4 - 1
 41,5,18/09/2026 21:00,Gtech Community Stadium,Brentford,Chelsea,3 - 0
-42,5,19/09/2026 13:30,Tottenham Hotspur Stadium,Spur,Aston Villa,2 - 3
+42,5,19/09/2026 13:30,Tottenham Hotspur Stadium,Spurs,Aston Villa,2 - 3
 43,5,19/09/2026 16:00,American Express Stadium,Brighton,Arsenal,3 - 0
 44,5,19/09/2026 16:00,Hill Dickinson Stadium,Everton,Ipswitch Town,1 - 0
 45,5,19/09/2026 16:00,St. James' Park,Newcastle,Hull City,2 - 1
@@ -64,3 +64,18 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 63,7,17/10/2026 16:00,Craven Cottage,Fulham,Hull City,1 - 0
 64,7,17/10/2026 16:00,Etihad Stadium,Man City,Ipswitch Town,3 - 2
 65,7,17/10/2026 18:30,St. James' Park,Newcastle,Aston Villa,0 - 1
+66,7,18/10/2026 15:00,Vitality Stadium,Bournemouth,Sunderland,
+67,7,18/10/2026 15:00,American Express Stadium,Brighton,Crystal Palace,5 - 0
+68,7,18/10/2026 15:00,Elland Road,Leeds,Man Utd,1 - 1
+69,7,18/10/2026 17:30,The City Ground,Nott'm Forest,Arsenal,0 - 1
+70,7,19/10/2026 13:30,Tottenham Hotspur Stadium,Spurs,Coventry City,3 - 1
+71,8,23/10/2026 21:00,Portman Road,Ipswich Town,Nott'm Forest,1 - 1
+72,8,24/10/2026 13:30,Villa Park,Aston Villa,Man City,2 - 1
+73,8,24/10/2026 16:00,Emirates Stadium,Arsenal,Everton,2 - 0
+74,8,24/10/2026 16:00,Coventry Building Society Arena,Coventry City,Fulham,0 - 1
+75,8,24/10/2026 16:00,Stamford Bridge,Chelsea,Spurs,0 - 2
+76,8,24/10/2026 16:00,MKM Stadium,Hull City,Brentford,1 - 1
+77,8,24/10/2026 16:00,Anfield,Liverpool,Brighton,2 - 0
+78,8,24/10/2026 16:00,Old Trafford,Man Utd,Bournemouth,0 - 3
+79,8,24/10/2026 16:00,Selhurst Park,Crystal Palace,Newcastle,0 - 2
+80,8,24/10/2026 18:30,Stadium of Light,Sunderland,Leeds,0 - 0
